@@ -1,0 +1,5 @@
+-Dynamic website: cần sever lớn để quản lý, các ngôn ngữ backend sẽ sắp xếp, lọc database sau đó gửi ên websever.
+
+-Web tĩnh (static website): Trang web mà cứ mỗi lần người dùng request, máy chủ lại gửi cá tệp html,css,js đơn giản đến hiển thị trên trình duyệt, về cơ bản không có bất cứ thay đổi nào trên trang web này.
+
+-Dynamic (Dynamic website): Trang web mà nội dung update ontime, ví dụ face: các bài đăng mới, bình luận, new feed ... update liên lục và phản hồi ontime với người dùng.

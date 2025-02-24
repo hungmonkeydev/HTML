@@ -1,0 +1,15 @@
+- DOCTYPE : là một khai báo doctype (document type declaration) trong HTML đây là mã khai báo cho trình duyệt biết rằng bạn đang sử dụng HTLM5 - phiên bản mới nhất của HTLM hiện tại.
+- The HTML : cặp thẻ <html> </html> được sử dụng để định nghĩa phần thân của tài liệu HTLM.
++ html có thể dùng kèm thuộc tính lang để chỉ ngôn ngữ được viết của website.
++ Trong 1 file html chỉ có duy nhất 1 cặp thẻ <html></html>
++ lang = Vi báo cho trình duyệt biết trang web đang sử dụng tiếng việt
+- The head : là một phần tử HTML được sử dụng để chứa các thông tin về trang web mà không được hiển thị trực tiếp trên trình duyệt của người dùng
++ các thông tin trong thẻ head như tiêu đề trang, từ khóa, thông tin tác giả, các tập tin CSS và JavaScript được liên kết với trang, và nhiều thông tin khác.
++ Các thông tin trong thẻ head rất quan trọng cho việc tối ưu hóa công cụ tìm kiếm (SEO), vì chúng giúp các cong cụ tìm kiếm hiểu được nội dung và ý nghĩa của trang WEB.
+- The body : là một phẩn tử HTML được sử dụng để chứa nội dung chính của trang web, bao gồm các phần tử như văn bản, hình ảnh, đoạn mã JS,các phần tử định dạng...
++ các phần tử HTML bên trong thẻ body được hiển thij trực tiếp trên trình duyệt của người dùng, và chúng tạo thành nội dung chính của trang web.
+
+Ctrl + k + c : để comment nhanh trong html
+Ctrl + k + U : để uncomment nhanh trong html
+
+

@@ -1,0 +1,9 @@
+Thẻ h: Được sử dụng để định nghĩa tiêu đề của trang web.
+Thẻ p: paragraph <p></p> để chứa các đoạn văn bản.
+Thẻ b: bold in đậm (dùng <strong> thay thế, thể hiện nội dung quan trọng).
+Thẻ i: italic in nghiêng (dùng <em> - emphasis để1 nhấn mạnh nội dung).   
+Thẻ u: <u>underline</u> gạch chân.
+Thẻ a: anchor gắn kèm đường dẫn.
+Thẻ img: image - hình ảnh.
+Thẻ ul: unordered list danh sách không có thứ tự.
+Thẻ ol: ordered list danh sách có thứ tự.

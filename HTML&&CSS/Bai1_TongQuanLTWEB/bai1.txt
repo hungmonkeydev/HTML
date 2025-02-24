@@ -1,0 +1,13 @@
+- Internet là một mạng lưới toàn cầu kết nối hàng tỷ thiết bị và máy tính trên thế giới
+- Domain name system : Domain Name System (DNS) là hệ thống phân giải tên miền, giúp chuyển đổi tên miền dễ nhớ (như example.com) thành địa chỉ IP (như 192.168.1.1) để các thiết bị trên mạng có thể giao tiếp với nhau.
+Cách hoạt động của DNS:
+1.Người dùng nhập tên miền: Khi bạn nhập một địa chỉ web vào trình duyệt (ví dụ: www.google.com).
+2.Trình duyệt yêu cầu DNS: Trình duyệt gửi yêu cầu đến máy chủ DNS để tìm địa chỉ IP tương ứng với tên miền đó.
+3.Tra cứu trong bộ nhớ đệm (Cache):
+Nếu thiết bị hoặc nhà cung cấp dịch vụ (ISP) đã lưu địa chỉ IP trong bộ nhớ đệm, quá trình sẽ diễn ra rất nhanh.
+4.Hỏi các máy chủ DNS phân cấp: Nếu không có trong bộ nhớ đệm, yêu cầu sẽ được gửi đến các máy chủ DNS khác nhau theo thứ tự:
+-Root DNS Server: Chỉ dẫn đến máy chủ quản lý tên miền cấp cao nhất (TLD - Top-Level Domain, như .com, .org).
+-TLD DNS Server: Chỉ dẫn đến máy chủ DNS của miền cụ thể (google.com).
+-Authoritative DNS Server: Cung cấp địa chỉ IP chính xác cho miền cần tìm.
+5.Trả lại địa chỉ IP: Máy chủ DNS trả về địa chỉ IP cho trình duyệt.
+6.Trình duyệt kết nối tới website: Trình duyệt sử dụng địa chỉ IP để kết nối tới máy chủ và tải nội dung trang web.

@@ -1,0 +1,12 @@
+Ctrl + k + c : để comment nhanh trong html
+Ctrl + k + U : để uncomment nhanh trong html
+Alt + chỏ chuột dô vị trí : để xóa nhiều cái cùng lúc hoặc thêm 
+Alt + W : bôi đen vùng cần thêm tag
+shift + alt + mũi tên xuống : để coppy nhanh 1 dòng ,hoặc dung emet
+
+Extension hỗ trợ:
+- html tag wrap chèn thêm thẻ vào 1 khối có sẵn
+- diffchecker.com : so sánh code mẫu
+- codepen.io : dùng code thử
+- emmet : các cú pháp
+- https://unsplash.com/ :Trang web lấy nguồn ảnh free chất lượng

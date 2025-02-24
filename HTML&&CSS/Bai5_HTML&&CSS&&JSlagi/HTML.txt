@@ -1,0 +1,10 @@
+HTML : HyperText Markup Language
+-> Ngôn ngữ đánh dấu siêu văn bản
+CSS  : Cascading Style Sheets
+-> Ngôn ngữ định dạng web (tô màu,in đậm,in nghiêng ...)
+JS : JavaScript
+-> Các thao tác văn bản : Ẩn, hiện khi click, thay đổi nội dung hiển thị ...
+
+HTML : không phải ngôn ngữ lập trình
+HTML : xác định nội dung và cấu trúc của 1 trang WEB
+HTML : đánh dấu các nội dung khác nhau của văn bản: paragraphs-đoạn văn, links-liên kết,headings-tiêu đề,images-hình ảnh...

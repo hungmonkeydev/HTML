@@ -1,0 +1,3 @@
+-Đường dẫn tương đối : -> sử dụng ./để truy cập cùng cấp, hoặc thư mục con,tệp phía sau
+			->sử dụng ../ để trở về thư mục trước 1 cấp
+-Đường dẫn tuyệt đối : -> sử dụng / <=> Root path

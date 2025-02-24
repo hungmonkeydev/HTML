@@ -1,0 +1,38 @@
+*Thẻ h: Được sử dụng để định nghĩa tiêu đề của trang web.
+*Thẻ p: paragraph <p></p> để chứa các đoạn văn bản.
+*Thẻ b: bold in đậm (dùng <strong> thay thế, thể hiện nội dung quan trọng).
+*Thẻ i: italic in nghiêng (dùng <em> - emphasis để1 nhấn mạnh nội dung).   
+*Thẻ u: <u>underline</u> gạch chân.
+Thẻ a: anchor gắn kèm đường dẫn (lk email,sdt).
++href (hypertext reference) được dùng để khai báo URL mà trang web sẽ được chuyển đến.
+-> <a href=""> tải lại trang
+-> <a href="#"> trở lại đầu trang
++thuộc tính "target" trong thẻ "a" được sử dụng để chỉ định cách mở liên kết được nhúng trong thẻ đó (target ="_self" mở tại trang hiện tại || target = "_blank" mở trong tab mới)
++liên kết tới số điện thoại tel
++liên kết tới số email :mailto
+->cc: danh sách email sẽ nhận được bản sao của thư
+->bcc : danh sách email ẩn sẽ nhận đc bane sao của thư
+->subject : chủ đề của thư
+->body : nội dung của mail
+-> ? : dấu phân cách giữa mailto và tham số
+-> & : dấu phân cách tham sóp
+
+*Thẻ img: image - hình ảnh : là thẻ tự đóng (self clothing tag) để hiện thị hình ảnh website.
+vd : <img src="img/robot.png" alt="Đây là ảnh robot" width="50" height="100"/>
+->thuộc tính "src" sử dụng để chỉ định đường dẫn tới tập tin hình ảnh (source image file)
+-> "alt" alternative-thay thế : để
+->hiển thị text khi link ảnh lỗi
+->hỗ trợ trình đọc màn hình (screen reader) cho người khiếm thị
+->công cụ tìm kiếm thu thập dữ liệu trên trang
+->thuộc tính Width,height được sử dụng để chỉ định kích thước ảnh được hiển thị trên web
+*Lưu ý : Nếu ko set kích thước -> kích thước mặc định của ảnh vốn có
+	: Nếu set kích thước 1 chiều widtgh hoặc height -> chiều còn lại tự căn theo tỷ lệ
+
+
+*Thẻ ul: unordered list danh sách không có thứ tự.
+*Thẻ ol: ordered list danh sách có thứ tự.
++ <ol revered></ol> : đảo ngược thứ tự
++<ol type="(chuỗi)"></ol> :chọn kiểu
+*Thẻ li: list item là thẻ con trực tiếp của ul,ol
+*Thẻ <br> - break (thẻ tự đóng self-clothing tag) : "phá vỡ" hoặc "ngắt" dòng
+*Thẻ <hr> - horizontal rule (thẻ tự đóng self-closing tag): tạo "đường kẻ ngang" ngăn cách trên trang 
